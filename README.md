@@ -2,7 +2,7 @@
 
 Gaka-chu project is students manifesto of independent economical robot agent. Gaka-chu paintings auction was presented first time in MIT Media lab on Symposium on Blockchain for Robotics and AI Systems in Dec 4, 2019.
 
-[![Gaka-Chu: Economical independent robot artist (MIT Media Lab presentation)](https://img.youtube.com/vi/ReXFCqx5--s/0.jpg)](https://youtu.be/ReXFCqx5--s?t=1539)
+[![Gaka-Chu: Economical independent robot artist, MIT Media Lab presentation](https://img.youtube.com/vi/ReXFCqx5--s/0.jpg)](https://youtu.be/ReXFCqx5--s?t=1539)
 
 ## Modules
 
