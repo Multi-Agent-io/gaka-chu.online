@@ -1,0 +1,3 @@
+[submodule "robot_painter"]
+	path = robot_painter
+	url = https://github.com/airalab/robot_painter.git
