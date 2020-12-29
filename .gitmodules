@@ -4,3 +4,6 @@
 [submodule "gaka-chu-dapp"]
 	path = gaka-chu-dapp
 	url = https://github.com/airalab/gaka-chu-dapp
+[submodule "gacka-chu-provider"]
+	path = gacka-chu-provider
+	url = https://github.com/airalab/gacka-chu-provider
