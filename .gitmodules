@@ -1,3 +1,6 @@
 [submodule "robot_painter"]
 	path = robot_painter
 	url = https://github.com/airalab/robot_painter.git
+[submodule "gaka-chu-dapp"]
+	path = gaka-chu-dapp
+	url = https://github.com/airalab/gaka-chu-dapp
