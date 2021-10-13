@@ -25,6 +25,11 @@ As result, we built a multiagent system with human-to-robot communication over t
 * robot_painter: KUKA KR6 R900 painter ROS package stack. 
 * auction_dapp: dapp builded on robonomics.js for human-to-machine interaction via Robonomics.network
 * auction_provider: Robonomics network watchdog to collect auctions bids.
+* nft_minter_gaka_chu: Package for creating NFT and starting auction 
+* consumables_orderer: Robonomics agent for ordering canvases and paints
+* art_shop_agent: Robonomics art shop agent
+* Video_saver_of_Gaka_NFT: Package for filming video of gaka-chu drawing
+* image_generation_Gaka_Chu: Package with generating image with word from Google trends
 
 ## Manifesto
 ### ENG
