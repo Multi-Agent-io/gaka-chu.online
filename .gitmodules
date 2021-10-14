@@ -7,3 +7,18 @@
 [submodule "gacka-chu-provider"]
 	path = gacka-chu-provider
 	url = https://github.com/airalab/gacka-chu-provider
+[submodule "nft_minter_gaka_chu"]
+	path = nft_minter_gaka_chu
+	url = https://github.com/PaTara43/nft_minter_gaka_chu
+[submodule "consumables_orderer"]
+	path = consumables_orderer
+	url = https://github.com/PaTara43/consumables_orderer
+[submodule "art_shop_agent"]
+	path = art_shop_agent
+	url = https://github.com/Vourhey/art_shop_agent
+[submodule "Video_saver_of_Gaka_NFT"]
+	path = Video_saver_of_Gaka_NFT
+	url = https://github.com/nakata5321/Video_saver_of_Gaka_NFT
+[submodule "image_generation_Gaka_Chu"]
+	path = image_generation_Gaka_Chu
+	url = https://github.com/nakata5321/image_generation_Gaka_Chu
