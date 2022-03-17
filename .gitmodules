@@ -22,3 +22,6 @@
 [submodule "image_generation_Gaka_Chu"]
 	path = image_generation_Gaka_Chu
 	url = https://github.com/nakata5321/image_generation_Gaka_Chu
+[submodule "gakachu-backend"]
+	path = gakachu-backend
+	url = https://github.com/nakata5321/gakachu-backend
